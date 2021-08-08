@@ -5,7 +5,7 @@ const Works = () => {
   return (
     <div className="works">
       <h1>Experiences</h1>
-      <p>Company: SimTeam</p>
+      <p className="company">Company: SimTeam</p>
       <p>Role: Assistant Web Developer</p>
       <p>Date: 2020 to 2021</p>
       <p>
@@ -13,7 +13,7 @@ const Works = () => {
         React, Node.JS, MongoDB.
       </p>
       <br />
-      <p>Company: BeeriPrint</p>
+      <p className="company">Company: BeeriPrint</p>
       <p>Role: Java Programmer</p>
       <p>Date: 2017 to 2020</p>
       <p>

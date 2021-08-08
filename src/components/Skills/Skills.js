@@ -15,17 +15,17 @@ const Skills = () => {
         </div>
         <div>
           <strong>Libraries:</strong>
-          <li>React(Hooks)</li>
+          <li>React (Hooks)</li>
           <li>Node.js</li>
           <li>Express.js</li>
-          <li>Rest API</li>
+          <li>Material-UI</li>
         </div>
         <div>
           <strong>Tools:</strong>
           <li>VS Code</li>
           <li>MongoDB</li>
           <li>Heroku</li>
-          <li>Git(GitHub)</li>
+          <li>Git (GitHub)</li>
         </div>
       </div>
     </div>
