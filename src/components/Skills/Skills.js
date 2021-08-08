@@ -8,24 +8,24 @@ const Skills = () => {
       <div className="content">
         <div>
           <strong>Languages:</strong>
-          <li>CC3</li>
-          <li>CC3</li>
-          <li>CC3</li>
-          <li>CC3</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Java</li>
         </div>
         <div>
           <strong>Libraries:</strong>
+          <li>React(Hooks)</li>
+          <li>Node.js</li>
           <li>Express.js</li>
-          <li>CC3</li>
-          <li>CC3</li>
-          <li>CC3</li>
+          <li>Rest API</li>
         </div>
         <div>
           <strong>Tools:</strong>
-          <li>Git & GitHub</li>
-          <li>CC3</li>
-          <li>CC3</li>
-          <li>CC3</li>
+          <li>VS Code</li>
+          <li>MongoDB</li>
+          <li>Heroku</li>
+          <li>Git(GitHub)</li>
         </div>
       </div>
     </div>
