@@ -1,7 +1,6 @@
 footer {
   width: 100%;
   padding: 10px 0;
-  /* margin-left: 40px; */
 }
 
 footer img {
@@ -12,9 +11,3 @@ footer img {
 footer img:not(:last-child) {
   margin-right: 10px;
 }
-
-/* @media (max-width: 800px) {
-  footer {
-    margin-left: 0;
-  }
-} */

@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Righteous", cursive;
+  font-family: "Baloo 2", "Indie Flower", cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #dde8fc;
@@ -20,11 +20,6 @@ body {
   scrollbar-width: none;
 }
 
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-} */
-
 .container {
   margin: 0 auto;
   padding: 0 15px;
@@ -33,10 +28,10 @@ body {
 
 .p {
   line-height: 30px;
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New";
+  font-family: "Baloo 2", "Indie Flower", cursive;
 }
 
 h1,
 h2 {
-  font-family: "Righteous", cursive;
+  font-family: "Baloo 2", "Indie Flower", cursive;
 }
