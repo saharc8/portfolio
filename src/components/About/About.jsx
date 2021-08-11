@@ -12,11 +12,12 @@ const About = () => {
         <br /> Looking for my first foothold in the web world, I have a high
         motivation to learn, specialize and succeed.
         <br /> This is my portfolio site, here you can see my projects, a links
-        to social networks and more ..
+        to social networks and more . .
         <br /> I would happy to hear from you.
       </p>
       <br />
-      <p></p>
+      <h1>My projects</h1>
+      <p>coming soon . . .</p>
     </div>
   );
 };
