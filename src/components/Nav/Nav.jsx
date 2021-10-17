@@ -32,7 +32,7 @@ const Nav = () => {
       <div className="nav-wrapper">
         <div className="logo">
           <Link to="/">
-            <img src={`${process.env.PUBLIC_URL}/portfolio1.png`} alt="brand" />
+            <img src={`${process.env.PUBLIC_URL}/portfolio.png`} alt="brand" />
           </Link>
         </div>
         <div className="list-wrapper">
