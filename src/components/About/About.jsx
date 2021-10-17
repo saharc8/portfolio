@@ -17,7 +17,30 @@ const About = () => {
       </p>
       <br />
       <h1>My projects</h1>
-      <p>coming soon . . .</p>
+      <div className="projects">
+        <section className="project">
+          <p>Fasion store</p>
+          <img
+            src={`${process.env.PUBLIC_URL}/lavi-fashion.png`}
+            alt="store-pic"
+            className="project-pic"
+            onClick={() => {
+              window.open("https://gocode-shop-server.herokuapp.com/");
+            }}
+          />
+        </section>
+        <section className="project">
+          <p>Pads player</p>
+          <img
+            src={`${process.env.PUBLIC_URL}/pads-player.png`}
+            alt="pads-pic"
+            className="project-pic"
+            onClick={() => {
+              window.open("https://pads-player.herokuapp.com/");
+            }}
+          />
+        </section>
+      </div>
     </div>
   );
 };
