@@ -8,23 +8,23 @@ const Skills = () => {
       <div className="content">
         <div>
           <strong>Languages:</strong>
+          <li>Java</li>
           <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript</li>
-          <li>Java</li>
         </div>
         <div>
           <strong>Libraries:</strong>
           <li>React (Hooks)</li>
+          <li>MUI + styled-components</li>
           <li>Node.js</li>
           <li>Express.js</li>
-          <li>Material-UI</li>
         </div>
         <div>
           <strong>Tools:</strong>
-          <li>VS Code</li>
           <li>MongoDB</li>
           <li>Heroku</li>
+          <li>VS Code</li>
           <li>Git (GitHub)</li>
         </div>
       </div>
