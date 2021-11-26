@@ -24,7 +24,7 @@ const About = () => {
         <br /> I would happy to hear from you.
       </p>
       <br />
-      <h1>My projects</h1>
+      <h1>Some projects (find more in my github)</h1>
       <div className="projects">
         <section className="project">
           <p>Fasion store</p>

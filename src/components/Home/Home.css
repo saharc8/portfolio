@@ -30,13 +30,9 @@
   font-family: "Righteous", cursive;
 }
 
-.home .person {
+.home .person img {
   width: 100%;
   margin-top: 20px;
-}
-
-.home .person img {
-  width: 80%;
 }
 
 @media (min-width: 800px) {
@@ -45,14 +41,14 @@
     justify-content: space-between;
   }
   .home .title,
-  .home .person {
-    width: 60%;
+  .home .person img {
+    width: 70%;
     border-radius: 999px;
     margin-top: 0;
     text-align: left;
     font-size: 25px;
   }
-  .home .person img {
-    width: 100%;
+  .home .person {
+    margin-left: 60px;
   }
 }

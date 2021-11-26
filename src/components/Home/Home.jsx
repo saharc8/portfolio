@@ -15,12 +15,8 @@ const Home = () => {
           <button>More Info</button>
         </Link>
       </div>
-      <div>
-        <img
-          className="person"
-          src={`${process.env.PUBLIC_URL}/me.png`}
-          alt="person pic"
-        />
+      <div className="person">
+        <img src={`${process.env.PUBLIC_URL}/me.png`} alt="person pic" />
       </div>
     </div>
   );
